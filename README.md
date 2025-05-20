@@ -1,20 +1,21 @@
 ```ascii
- █████╗ ███████╗██╗  ██╗██╗     ███████╗██╗   ██╗
-██╔══██╗██╔════╝██║  ██║██║     ██╔════╝╚██╗ ██╔╝
-███████║███████╗███████║██║     █████╗   ╚████╔╝ 
-██╔══██║╚════██║██╔══██║██║     ██╔══╝    ╚██╔╝  
-██║  ██║███████║██║  ██║███████╗███████╗   ██║   
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   
+░▒▓██████████████▓▒░  ░▒▓██████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓████████▓▒░ ░▒▓██████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
 ```                                                  
 
-> 💻 Ashley Willis' terminal business card 🖥️
+> 💻 Maxence Bouvier's terminal business card 🖥️
 
 ## 🚀 Usage
 
 Fire up your favorite terminal and run:
 
 ```bash
-$ npx ashleywillis
+$ npx maxencebouvier
 # Watch the magic happen! (⌐■_■)
 ```
 
@@ -24,7 +25,8 @@ Built with `Node.js` ✨
 
 ## 🔌 Credits 
 
-Inspired by [Tierney Cyren's bitandbang](https://github.com/bnb/bitandbang) <(￣︶￣)>
+Forked from [Ashley Willie's terminal business card](https://github.com/ashleymcnamara/ashley.dev-card)
+Inspired by [Tierney Cyren's bitandbang](https://github.com/bnb/bitandbang) 
 
 ## 📄 License
 
